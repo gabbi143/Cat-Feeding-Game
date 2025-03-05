@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1741178273 source:c:\users\gabbi\documents\gabbicodeblocks\cat\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"cat.h"
+
+1741178060 c:\users\gabbi\documents\gabbicodeblocks\cat\cat.h
+
+1741178248 source:c:\users\gabbi\documents\gabbicodeblocks\cat\cat.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	"cat.h"
+
